@@ -1,144 +1,103 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=GAME%20DEVELOPER&fontAlignY=38&fontSize=55&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Minseo%20Kim&fontColor=ffffff&fontSize=52&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1500&color=7AF79A&center=true&vCenter=true&width=900&lines=Press+START...;Backend+Game+Developer;Unity+Developer;Spring+Boot+%7C+Java;Welcome+to+my+GitHub"/>
+<h3>Backend Game Developer</h3>
+
+<p>
+Building scalable backend systems for games with
+<strong>Java</strong>,
+<strong>Spring Boot</strong>,
+<strong>Unity</strong>
+and
+<strong>Firebase</strong>.
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1500&color=60A5FA&center=true&vCenter=true&width=650&lines=Backend+Game+Developer;Building+Reliable+Game+Services;Always+Learning+New+Technologies"/>
 
 </div>
 
 ---
 
-# 🎮 PLAYER STATUS
+## About
 
-```text
-👤 Name        :: Minseo Kim
-🎯 Class       :: Backend Game Developer
-🌎 Location    :: South Korea
-🎮 Engine      :: Unity
-⚙️ Language    :: Java / C# / C++
-☁️ Server      :: Spring Boot
-🗄️ Database    :: MySQL / Firebase
-💻 IDE         :: IntelliJ / Visual Studio / VS Code
+I'm a developer focused on backend systems for multiplayer games.
 
-❤️ HP          :: ██████████ 100%
-⚡ MP          :: ██████████ 100%
-📚 EXP         :: Always Learning...
-```
+My primary interests include authentication, server architecture, networking, database design, and cloud infrastructure. I enjoy creating reliable systems that support seamless gameplay experiences.
 
 ---
 
-# 🕹️ TECH STACK
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=unity,cs,cpp,java,spring,mysql,firebase,docker,aws,git,github,vscode,idea" />
-</p>
-
----
-
-# 🗺️ CURRENT QUEST
-
-### 🌌 Planet Adventure Project
-
-> Unity 기반 멀티플레이 게임 프로젝트
-
-### ⚔️ My Role
-
-* 🔹 Backend Development
-* 🔹 Login / Sign Up
-* 🔹 Firebase Database
-* 🔹 UI System
-* 🔹 Entry Scene
-* 🔹 Planet Selection Scene
-* 🔹 Loading System
-* 🔹 Animation
-* 🔹 Exception Handling
-* 🔹 Presentation
-
----
-
-# 🏆 ACHIEVEMENTS
-
-* 🎮 Unity Game Development
-* ☕ Spring Boot Backend
-* ☁️ AWS Cloud Study
-* 📚 Information Processing Industrial Engineer (Preparing)
-
----
-
-# 📊 PLAYER STATS
+## Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,firebase,unity,cs,docker,aws,git,github"/>
 
 </p>
 
 ---
 
-# 🔥 DAILY EXP
+## Featured Project
+
+### Planet Adventure
+
+A multiplayer game developed with Unity.
+
+**Responsibilities**
+
+* Backend Development
+* Authentication System
+* Firebase Database Design
+* UI System
+* Scene Flow
+* Loading Optimization
+* Exception Handling
+* Technical Presentation
+
+---
+
+## GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_ID&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 ACTIVITY MAP
+## Contribution
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_ID&theme=tokyo-night"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_ID&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🎖️ BOSS TROPHIES
+## Activity
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_ID&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_ID&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🐍 SNAKE GAME
+## Contact
 
-<p align="center">
+**Email**
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_ID/YOUR_GITHUB_ID/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 📬 CONTACT
-
-📧 **[kms88080@gmail.com](mailto:kms88080@gmail.com)**
+[kms88080@gmail.com](mailto:kms88080@gmail.com)
 
 ---
 
 <div align="center">
 
-## 🎉 GAME CLEAR!
-
-```
-██████████████████████████
-
-MISSION COMPLETE
-
-Thanks for visiting!
-
-▶ Continue Adventure...
-
-██████████████████████████
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+*"Games are built on experiences. Great experiences are built on solid systems."*
 
 </div>
