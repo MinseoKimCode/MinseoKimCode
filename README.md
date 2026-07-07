@@ -1,95 +1,116 @@
-# Game Client Developer
+# Minseo Kim
 
 ```bash
-npx player-profile@latest create --role game-client --studio online
+$ developer init --role "Backend & Game Developer" --focus "Game Service"
 ```
 
-## About Me
+Backend developer with an interest in building reliable systems for online games.
 
-게임을 단순히 실행되는 프로그램이 아니라,  
-플레이어가 오래 머물고 다시 돌아오고 싶어지는 **서비스**로 바라보는 개발자입니다.
+I focus on creating stable services that allow players to enjoy games without interruption, while collaborating closely with designers, artists, and fellow developers to deliver polished gameplay experiences.
 
-저는 게임 클라이언트 개발을 중심으로  
-조작감, 전투 흐름, UI 반응성, 콘텐츠 구조, 라이브 서비스 안정성에 관심을 가지고 있습니다.
+---
 
-작은 기능 하나도 플레이어 경험에 직접 닿는다고 생각하며,  
-기획 의도와 사용자 경험을 코드로 정확하게 구현하는 개발자를 목표로 성장하고 있습니다.
+## Philosophy
 
-## Core Values
+> Good gameplay begins with reliable systems.
 
-- 플레이어가 즉시 이해할 수 있는 명확한 피드백
-- 오래 플레이해도 불편하지 않은 UI / UX
-- 유지보수 가능한 게임 시스템 구조
-- 라이브 서비스 환경을 고려한 안정적인 코드
-- 기획, 아트, 서버와 함께 맞춰가는 협업 중심 개발
+I believe that every feature, from authentication to UI responsiveness, directly affects the player's experience.
+
+Rather than simply implementing requirements, I aim to understand the intent behind a feature and deliver maintainable, scalable solutions.
+
+---
+
+## Areas of Interest
+
+```text
+Game Backend
+Authentication
+Game Service Architecture
+Database Design
+Unity Client Integration
+Realtime Networking
+Cloud Infrastructure
+Live Service
+```
+
+---
 
 ## Tech Stack
 
-### Game Client
+### Backend
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase)
 
-### Programming
+### Game
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Unity](https://img.shields.io/badge/Unity-111111?style=flat-square&logo=unity)
+![C#](https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp)
 
-### Tools
+### Cloud & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
 
-## Interested Areas
+---
+
+## Featured Project
+
+### Planet Adventure
+
+Multiplayer game project built with Unity.
+
+**Responsibilities**
+
+- Backend Development
+- Authentication System
+- Firebase Integration
+- Database Design
+- UI System
+- Scene Flow
+- Loading Optimization
+- Exception Handling
+- Technical Presentation
+
+---
+
+## Current Focus
 
 ```text
-Gameplay Programming
-Combat System
-Character Controller
-Inventory / Skill System
-Game UI / UX
-Live Service Tool
-Multiplayer / Networking
-Optimization
+• Building scalable backend architecture
+• Improving game service stability
+• Studying networking for multiplayer games
+• Designing maintainable systems
+• Expanding cloud infrastructure knowledge
 ```
 
-## Projects
+---
 
-| Project | Description | Tech |
-| --- | --- | --- |
-| Project Name | 캐릭터 조작과 전투 흐름을 구현한 게임 프로젝트 | Unity, C# |
-| Project Name | 인벤토리, 스킬, UI 시스템을 구현한 프로젝트 | Unity, C# |
-| Project Name | 실시간 모니터링 대시보드 프로젝트 | React, WebRTC |
+## GitHub
 
-## Currently Working On
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-```bash
-> improving game feel
-> studying client architecture
-> building reusable UI systems
-> learning multiplayer basics
-> polishing portfolio projects
-```
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=dark)
+---
 
 ## Contact
 
 ```text
-Email    : your-email@example.com
-GitHub   : https://github.com/YOUR_GITHUB_ID
-Portfolio: 준비 중
+Email      : kms88080@gmail.com
+GitHub     : https://github.com/YOUR_GITHUB_ID
+Portfolio  : Coming Soon
 ```
 
 ---
 
 ```bash
-service status: live
-next update: better gameplay
+service.status = online
+
+current_mission = "Build better experiences for players."
 ```
