@@ -1,77 +1,82 @@
-<div align="center">
+# npx game-dev@latest add passion
 
-# Minseo Kim
+```bash
+> initializing developer profile...
+> loading gameplay systems...
+> rendering worlds...
+> status: ready
+```
 
-Backend Game Developer
+## Hello, I'm YOUR_NAME
 
-Building scalable backend systems for multiplayer games.
+게임을 만드는 과정에서 **플레이어가 직접 느끼는 재미**, **반응 좋은 조작감**, **명확한 UI**, **안정적인 시스템 구조**에 관심이 많은 게임 개발자입니다.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=480&lines=Java+%2F+Spring+Boot;Unity+Developer;Firebase+%26+MySQL;Always+building."/>
+현재는 Unity와 C#을 중심으로 게임 개발을 공부하고 있으며, 게임 로직, 캐릭터 컨트롤, 전투 시스템, UI, 레벨 디자인, 툴 제작까지 폭넓게 다뤄보고 있습니다.
 
-</div>
+## Tech Stack
 
----
+### Game Development
 
-## About
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
-Backend developer focused on game services, authentication, networking and scalable server architecture.
+### Frontend / Tools
 
-Currently exploring backend technologies that improve multiplayer game experiences.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
+## Interests
 
-## Stack
+- Gameplay Programming
+- Character Controller
+- Combat System
+- Game UI / UX
+- Level Design
+- Game Tools
+- Real-time Interaction
+- Multiplayer / Networking
 
-<p>
+## Featured Projects
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,firebase,unity,cs,docker,aws,git"/>
+| Project | Description | Tech |
+| --- | --- | --- |
+| Project Name | 게임 핵심 시스템과 플레이 흐름을 구현한 프로젝트 | Unity, C# |
+| Project Name | 전투/이동/상호작용 시스템을 구현한 프로젝트 | Unity, C# |
+| Project Name | 웹 기반 대시보드 또는 툴 프로젝트 | React, JavaScript |
 
-</p>
+## What I'm Learning
 
----
+```bash
+learning:
+  - Unity architecture
+  - C# design patterns
+  - game feel
+  - combat mechanics
+  - animation state machine
+  - optimization
+  - multiplayer basics
+```
 
-## Selected Project
+## GitHub Stats
 
-### Planet Adventure
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight)
 
-Multiplayer game built with Unity.
-
-**Responsibilities**
-
-- Backend Architecture
-- Authentication
-- Firebase Database
-- UI System
-- Scene Management
-- Loading Optimization
-- Exception Handling
-
----
-
-## GitHub
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-## Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_ID&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight)
 
 ## Contact
 
-**Email**
+```bash
+email: your-email@example.com
+github: https://github.com/YOUR_GITHUB_ID
+portfolio: 준비 중
+```
 
-kms88080@gmail.com
+---
+
+```bash
+> build completed
+> thanks for visiting
+```
